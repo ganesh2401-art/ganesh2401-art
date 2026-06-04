@@ -185,6 +185,6 @@ Built high-performance summarization system using **FAISS**, **Pinecone**, and *
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ganesh2401-art&color=00D9FF&style=for-the-badge)
 
-⭐️ From [Ganesh Prasad D M]([https://github.com/ganesh2401-art](https://www.linkedin.com/in/ganesh-prasad-d-m/))
+⭐️ From [Ganesh Prasad D M](https://www.linkedin.com/in/ganesh-prasad-d-m/)
 
 </div>
